@@ -344,6 +344,7 @@ public class AnalyticsTUI
 
     static private void fileNotRead() {
         System.out.println();
+        System.out.println("Testing GitHub integration");
         System.out.println("The input file for this programme could not be found");
         System.out.println("Contact a system administrator if this problem continues");
         System.out.println();
