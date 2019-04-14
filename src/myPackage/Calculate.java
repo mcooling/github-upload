@@ -3,6 +3,8 @@ package myPackage;
 public class Calculate
 
 /*
+ * ADDED THIS TEST LINE FOR GIHUB BRANCHING
+ *
  * PSEUDOCODE, for calculate class behaviour
  * Called by main method
  * LABS 5/6, METHODS
